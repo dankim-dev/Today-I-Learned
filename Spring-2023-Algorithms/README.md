@@ -1,7 +1,6 @@
 # study-algorithms
 
 1. 2023 spring &lt;Algorithms>
-2. 기타 알고리즘 공부
 
 ## Contents
 

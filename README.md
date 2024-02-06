@@ -1,6 +1,8 @@
 # Today I Learned
 > Today I Learned
 
+My studying journey – a collection of daily insights, discoveries, and lessons learned as I explore deeper into the world of coding and technology.
+
 ---
 ### Machine Learning & Deep Learning
 - [Back-Propagation](deep-learning/back-propagation.md)
