@@ -8,4 +8,4 @@
 ### SS2023 - Algorithms
 - [Course Assignments](Spring-2023-Algorithms/README.md)
 
-### SS2025 - Artificial Intelligence & Machine LEarning
+### SS2025 - Artificial Intelligence & Machine Learning
