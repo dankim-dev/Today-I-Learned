@@ -1,6 +1,6 @@
-# study-algorithms
+# Algorithms
 
-1. 2023 spring &lt;Algorithms>
+> 2023-1 &lt;Algorithms>, IT Engineering, SMWU
 
 ## Contents
 

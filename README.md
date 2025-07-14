@@ -1,11 +1,12 @@
 # Today I Learned
-> My studying journey – a collection of daily insights, discoveries, and lessons learned.
+> My studying journey 🎵
 
 ---
-### Machine Learning & Deep Learning
-- [Back-Propagation](deep-learning/back-propagation.md)
+### Algorithms
+- [Lab Assignments](SS2023-Algorithms/README.md)
 
-### SS2023 - Algorithms
-- [Course Assignments](Spring-2023-Algorithms/README.md)
+### Artificial Intelligence & Machine Learning
+- [Lab Assignments](SS2025-AIML/README.md)
 
-### SS2025 - Artificial Intelligence & Machine Learning
+### Linear Algebra
+- [Lab Assignments](SS2025-Linear-Algebra/README.md)
